@@ -6,9 +6,19 @@
 
 Welcome to my GitHub profile! I'm Mahmoud Hassan, a passionate .NET developer with expertise in building Blazor and REST API applications using ASP.NET. I am proficient in HTML, CSS, JavaScript, and C#. I enjoy solving problems and continuously learning new technologies to enhance my skills.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50">
+</div>
+
 ## 🔗 Connect with me
-- **LinkedIn:** [Mahmoud Hassan](https://www.linkedin.com/in/mah-hassan)
-- **HackerRank:** [Mahmoud Hassan](https://www.hackerrank.com/profile/mahmoudbus7)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mah-hassan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/mahmoudbus7">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
 ## 🛠 Skills
 ### Languages
@@ -40,11 +50,6 @@ Welcome to my GitHub profile! I'm Mahmoud Hassan, a passionate .NET developer wi
 ## 🔝 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mah-hassan&layout=compact&theme=radical)
 
-## 💡 Projects
-Here are some of the projects I have worked on:
-- **[Project 1: Repo Name](https://github.com/mah-hassan/repo-name)** - Brief description of project 1.
-- **[Project 2: Repo Name](https://github.com/mah-hassan/repo-name)** - Brief description of project 2.
-- **[Project 3: Repo Name](https://github.com/mah-hassan/repo-name)** - Brief description of project 3.
 
 ## 📫 How to reach me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/mah-hassan) or [HackerRank](https://www.hackerrank.com/profile/mahmoudbus7). I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
