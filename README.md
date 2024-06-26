@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75C7E&width=500&lines=Hi+I+am+Mahmoud+Hassan%0A👨‍💻+.NET+Developer%0ACS Graduate from Beni Suef University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75C7E&width=500&lines=Hi+I+am+Mahmoud+Hassan%3B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+.NET+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75C7E&width=500&lines=CS+Graduate+from+Beni+Suef+University" alt="Typing SVG" />
 </div>
 
 
