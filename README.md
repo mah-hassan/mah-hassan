@@ -39,8 +39,8 @@ Welcome to my GitHub profile! I'm Mahmoud Hassan, a passionate .NET developer wi
 - **B.Sc. in Computer Science** - Beni Suef University
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mah-hassan&show_icons=true&theme=radical" alt="Mahmoud's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-hassan&layout=compact&theme=radical" alt="Top Langs" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mah-hassan&show_icons=true&theme=radical&line_height=32" alt="Mahmoud's GitHub stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-hassan&layout=compact&theme=radical&langs_count=6" alt="Top Langs" width="45%" />
 </div>
 
 ## 📫 How to reach me
