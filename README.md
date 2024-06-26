@@ -1,21 +1,16 @@
-# Mahmoud Hassan
 
-![Welcome Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
-**👨‍💻 .NET Developer | CS Graduate from Beni Suef University**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75C7E&width=435&lines=Hi+I+am+Mahmoud+Hassan;👨‍💻+.NET+Developer+%7C+CS+Graduate+from+Beni+Suef+University" alt="Typing SVG" />
+</div>
 
 Welcome to my GitHub profile! I'm Mahmoud Hassan, a passionate .NET developer with expertise in building Blazor and REST API applications using ASP.NET. I am proficient in HTML, CSS, JavaScript, and C#. I enjoy solving problems and continuously learning new technologies to enhance my skills.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50">
-</div>
-
 ## 🔗 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/mah-hassan">
+  <a href="https://www.linkedin.com/in/mah-hassan"  target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/profile/mahmoudbus7">
+  <a href="https://www.hackerrank.com/profile/mahmoudbus7"  target="_blank" >
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
@@ -50,6 +45,11 @@ Welcome to my GitHub profile! I'm Mahmoud Hassan, a passionate .NET developer wi
 ## 🔝 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mah-hassan&layout=compact&theme=radical)
 
+## 💡 Projects
+Here are some of the projects I have worked on:
+- **[Project 1: Repo Name](https://github.com/mah-hassan/repo-name)** - Brief description of project 1.
+- **[Project 2: Repo Name](https://github.com/mah-hassan/repo-name)** - Brief description of project 2.
+- **[Project 3: Repo Name](https://github.com/mah-hassan/repo-name)** - Brief description of project 3.
 
 ## 📫 How to reach me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/mah-hassan) or [HackerRank](https://www.hackerrank.com/profile/mahmoudbus7). I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
