@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75C7E&width=435&lines=Hi+I+am+Mahmoud+Hassan;👨‍💻+.NET+Developer+%7C+CS+Graduate+from+Beni+Suef+University" alt="Typing SVG" />
 </div>
@@ -39,17 +38,10 @@ Welcome to my GitHub profile! I'm Mahmoud Hassan, a passionate .NET developer wi
 ## 📚 Education
 - **B.Sc. in Computer Science** - Beni Suef University
 
-## 📈 Stats
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mah-hassan&show_icons=true&theme=radical)
-
-## 🔝 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mah-hassan&layout=compact&theme=radical)
-
-## 💡 Projects
-Here are some of the projects I have worked on:
-- **[Project 1: Repo Name](https://github.com/mah-hassan/repo-name)** - Brief description of project 1.
-- **[Project 2: Repo Name](https://github.com/mah-hassan/repo-name)** - Brief description of project 2.
-- **[Project 3: Repo Name](https://github.com/mah-hassan/repo-name)** - Brief description of project 3.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mah-hassan&show_icons=true&theme=radical" alt="Mahmoud's GitHub stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-hassan&layout=compact&theme=radical" alt="Top Langs" width="45%" />
+</div>
 
 ## 📫 How to reach me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/mah-hassan) or [HackerRank](https://www.hackerrank.com/profile/mahmoudbus7). I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
