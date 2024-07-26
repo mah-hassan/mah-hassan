@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1500&color=F75C7E&width=500&lines=Hi+I+am+Mahmoud+Hassan;👨‍💻+.NET+Developer" alt="Typing SVG" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1500&color=F75C7E&width=500&lines=CS+Graduate+from+Beni+Suef+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1500&color=F75C7E&width=500&lines=Welcome+to+My+GitHub+Profile;Passionate+.NET+Developer;Building+Blazor+and+REST+APIs;Proficient+in+HTML%2C+CSS%2C+JavaScript%2C+C%23" alt="Typing SVG" />
 </div>
 
 ---
 
-<h2 align="center">Welcome to my GitHub profile!</h2>
-<p align="center">I'm Mahmoud Hassan, a passionate .NET developer with expertise in building Blazor and REST API applications using ASP.NET. I am proficient in HTML, CSS, JavaScript, and C#. I enjoy solving problems and continuously learning new technologies to enhance my skills.</p>
+<h2 align="center">👋 Hi there! I'm Mahmoud Hassan</h2>
+<p align="center">A passionate .NET developer with expertise in building Blazor and REST API applications using ASP.NET. I enjoy solving problems and continuously learning new technologies to enhance my skills.</p>
 
 ---
 
@@ -25,24 +23,29 @@
 
 ## 🛠 Skills
 ### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/csharp/csharp-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/javascript/javascript-original.svg)
+![HTML](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/html5/html5-original.svg)
+![CSS](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/css3/css3-original.svg)
 
 ### Frameworks
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![ASP.NET](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/dot-net/dot-net-original.svg)
+![Blazor](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/blazor/blazor-original.svg)
 
 ### Tools
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/visualstudio/visualstudio-plain.svg)
+![Git](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/git/git-original.svg)
+![GitHub](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/github/github-original.svg)
+![Postman](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/postman/postman-original.svg)
+![Docker](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/docker/docker-original.svg)
+![Redis](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/redis/redis-original.svg)
+![RabbitMQ](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/rabbitmq/rabbitmq-original.svg)
+![AWS](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/amazonwebservices/amazonwebservices-original.svg)
+![Elasticsearch](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/elasticsearch/elasticsearch-original.svg)
 
 ### Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white)
+![SQL Server](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
+![Entity Framework](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/ef/ef-original.svg)
 
 ---
 
