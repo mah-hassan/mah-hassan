@@ -23,29 +23,29 @@
 
 ## 🛠 Skills
 ### Languages
-![C#](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/csharp/csharp-original.svg)
-![JavaScript](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/javascript/javascript-original.svg)
-![HTML](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/html5/html5-original.svg)
-![CSS](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/css3/css3-original.svg)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks
-![ASP.NET](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/dot-net/dot-net-original.svg)
-![Blazor](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/blazor/blazor-original.svg)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
 ### Tools
-![Visual Studio](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/visualstudio/visualstudio-plain.svg)
-![Git](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/git/git-original.svg)
-![GitHub](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/github/github-original.svg)
-![Postman](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/postman/postman-original.svg)
-![Docker](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/docker/docker-original.svg)
-![Redis](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/redis/redis-original.svg)
-![RabbitMQ](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/rabbitmq/rabbitmq-original.svg)
-![AWS](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/amazonwebservices/amazonwebservices-original.svg)
-![Elasticsearch](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/elasticsearch/elasticsearch-original.svg)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### Databases
-![SQL Server](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
-![Entity Framework](https://cdn.jsdelivr.net/npm/devicons@1.8.0/icons/ef/ef-original.svg)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white)
 
 ---
 
