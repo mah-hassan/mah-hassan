@@ -1,65 +1,71 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1500&color=F75C7E&width=500&lines=Welcome+to+My+GitHub+Profile;Passionate+.NET+Developer;Building+Blazor+and+REST+APIs;Proficient+in+HTML%2C+CSS%2C+JS%2C+C%23" alt="Typing SVG" />
-</div>
+# 👋 Hi, I'm Mahmoud Hassan  
+
+🎓 **Computer Science Graduate** | 💻 **Backend Software Engineer** | 🚀 **Tech Enthusiast**  
 
 ---
 
-<h2 align="center">👋 Hi there! I'm Mahmoud Hassan</h2>
-<p align="center">A passionate .NET developer with expertise in building Blazor and REST API applications using ASP.NET. I enjoy solving problems and continuously learning new technologies to enhance my skills.</p>
+## 🌟 About Me  
+I'm a backend software engineer passionate about building reliable, scalable systems using modern tools and clean architectural principles.  
+I work primarily with **.NET** and **Node.js**, and have hands-on experience with **microservices**, **Docker**, **CI/CD pipelines**, and **asynchronous communication patterns**.  
+
+I bring strong **computer science fundamentals** in data structures, OOP, and system design, which help me reason about performance, scalability, and maintainability. I'm highly adaptable and quick to learn new tools and technologies when they add real value.  
+
+I’m committed to **continuous learning**, collaboration, and sharing knowledge. I’m deeply curious about how technologies work under the hood — from system calls to networking — and I bring that mindset to every project.  
 
 ---
 
-## 🔗 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mah-hassan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/mahmoudbus7" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
+## 🛠️ Tech Stack  
+
+### 💻 Languages & Frameworks  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin-right:15px;"/>
+  <img src="https://nestjs.com/img/logo-small.svg" width="50" height="50" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="margin-right:15px;"/>
+</p>
+
+### 🗄️ Databases  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" style="margin-right:15px;"/>
+</p>
+
+### ⚙️ Tools & Platforms  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50" style="margin-right:15px;"/>
 </p>
 
 ---
 
-## 🛠 Skills
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-
-### Tools
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white)
+## 📌 Featured Projects  
+- **BNS360 (Graduation Project)** – Dynamic platform with services directory, jobs, properties, and skilled craftsmen. Integrated **AI/ML recommendation system** and chatbot.  
+- **B2B Delivery Platform** – APIs for businesses to manage deliveries, **PayPal integration**, **real-time chat**, and complaint center.  
+- **E-Shop Backend** – E-commerce backend with **Keycloak auth**, **Stripe payments**, **Redis caching**, and **RabbitMQ messaging**.  
+- **Ticket Booking Microservices** – Modular services with **gRPC**, **NGINX API gateway**, and **Docker orchestration**.  
+- **Multithreaded HTTP Server in C** – Built from scratch with **raw sockets**, **POSIX threads**, and concurrency handling.  
 
 ---
 
-## 📚 Education
-- **B.Sc. in Computer Science** - Beni Suef University
+## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mah-hassan&show_icons=true&theme=radical&line_height=32" alt="Mahmoud's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-hassan&layout=compact&theme=radical&langs_count=6&hide=jupyter%20notebook" alt="Top Langs" width="45%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mah-hassan&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-hassan&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-## 📫 How to reach me
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/mah-hassan) or [HackerRank](https://www.hackerrank.com/profile/mahmoudbus7). I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-Thank you for visiting my GitHub profile!
+## 🌐 Connect with Me  
+<p>
+  <a href="https://www.linkedin.com/in/mah-hassan/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" style="margin-right:15px;"/></a>
+  <a href="mailto:mahhassan.work@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" style="margin-right:15px;"/></a>
+  <a href="https://github.com/mah-hassan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" style="margin-right:15px;"/></a>
+</p>
